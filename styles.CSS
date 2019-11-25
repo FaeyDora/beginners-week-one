@@ -3,6 +3,8 @@ body{
 
   font-family: fantasy;
   margin: auto;
+  padding: 10px;
+  
 }
 div{
     min-height: 100vh;
